@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 幽默代码人
+- 幽默代码人，高级提示词工程师
+- The season of solana 🏄🏄🏄
   
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4iting4)
